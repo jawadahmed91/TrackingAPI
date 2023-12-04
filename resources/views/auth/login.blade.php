@@ -48,10 +48,6 @@
                 </section>
             </form>
 
-            <section class="p-2 text-end w-100">
-                <a class="text-dark" href="{{ route('auth.forget') }}">Forgot password?</a>
-            </section>
-
             <section class="p-2 text-center w-100">
                 <a href="{{ route('auth.register') }}">
                     <button type="button" class="form-control btn btn-dark">Create Account</button>

@@ -24,7 +24,7 @@
         <div class="col-12">
             <a href="{{ route('tracking.trackings') }}">
                 <div class="alert alert-light" role="alert" data-mdb-color="light">
-                    <i class="fa-solid fa-bell me-3 left-icon" style="color: #6A1B9A"></i>Add Reminders
+                    <i class="fa-solid fa-bell me-3 left-icon" style="color: #6A1B9A"></i>Add Tracking
                     <i class="fa-solid fa-angle-right right-arrow"></i>
                 </div>
             </a>
