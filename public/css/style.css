@@ -1,0 +1,192 @@
+body
+{
+    background-color: #f7f6f6;
+}
+
+.clear
+{
+    clear: both;
+}
+
+.btn-check:focus+.btn-primary, .btn-check:focus-visible+.btn-primary, .btn-primary:focus,
+.btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active
+{
+    background-color: #e65100;
+}
+
+.primary-orange
+{
+    color: #e65100;
+}
+
+.bg-theme-primary
+{
+    background-color: #e65100;
+}
+
+.btn-primary
+{
+    background-color: #e65100;
+    box-shadow: 0 4px 9px -4px #e65100;
+}
+
+.inputTextIcon
+{
+    border: 1px solid #bdbdbd;
+    background-color: #f3f3f3;
+    border-right: none;
+    border-radius: 0px;
+    border-radius: 15px 0px 0px 15px;
+}
+
+.inputTextField
+{
+    background-color: #f3f3f3;
+    border-left: none;
+    border-radius: 0px;
+    border-radius: 0px 15px 15px 0px;
+}
+
+.textareField
+{
+    background-color: #f3f3f3;
+}
+
+.padding_40
+{
+    padding: 0px 40px;
+}
+
+.alert-light {
+    background-color: #ffffff;
+    color: #4f4f4f;
+}
+
+.alert > .left-icon
+{
+    background-color: #f9f8f8;
+    text-align: center;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.alert > .right-arrow
+{
+    font-size: 8px;
+    font-weight: bold;
+    float: right;
+    position: relative;
+    top: 12px;
+}
+
+.border-radius-bottoms
+{
+    border-radius: 0px 0px 15px 15px;
+}
+
+.sidenav-collapse, .sidenav-menu {
+    list-style: none;
+    position: relative;
+    padding: 0 0.2rem;
+    margin: 0;
+}
+
+.sidenav-item {
+    position: relative;
+}
+
+.ripple-surface {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.sidenav-link {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: var(--mdb-sidenav-link-font-size);
+    padding: var(--mdb-sidenav-link-padding-y) var(--mdb-sidenav-link-padding-x);
+    height: var(--mdb-sidenav-link-height);
+    color: unset;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border-radius: var(--mdb-sidenav-link-border-radius);
+    transition: var(--mdb-sidenav-link-transition);
+}
+
+.card-body .card-title
+{
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+.card-body .card-text
+{
+    font-size: 0.9rem;
+    float: right;
+}
+
+.border-radius-30
+{
+    border-radius: 30px;
+}
+
+.tab-pane h5
+{
+    font-size: 1.0rem;
+}
+
+.tab-pane h6
+{
+    font-size: 0.8rem;
+    color: #979797;
+    font-weight: 100;
+}
+
+.tab-pane p > a
+{
+    font-size: 0.8rem;
+    font-weight: 200;
+    color: black;
+}
+
+.tab-pane .img-circle {
+    border-radius: 50%;
+}
+
+.center-align-img {
+    position: relative;
+    top: 30px;
+    left: -5px;
+}
+
+.nav-tabs .nav-link
+{
+    padding: 15px 5px;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active 
+{
+    color: #e65100;
+    border-color: #e65100;
+}
+
+.nav-tabs .nav-link
+{
+    font-size: 9px;
+}
+
+.payroll_para
+{
+    font-size: 11px;
+    line-height: 0;
+}
+
+.document_para
+{
+    font-size: 11px;
+    line-height: 0;
+}
